@@ -7,3 +7,11 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
+## Tech Stack
+
+*Django*
+
+## Database
+
+*Sqlite3*
+
