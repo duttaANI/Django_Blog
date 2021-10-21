@@ -1,5 +1,5 @@
 from django.shortcuts import render , get_object_or_404
-from django.views.generic import ListView, DeleteView, CreateView, UpdateView, DeleteView
+from django.views.generic import ListView, CreateView, UpdateView, DeleteView
 from .models import Post, Category, Comment
 from .forms import PostForm, EditForm, CommentForm
 from django.urls import reverse_lazy, reverse
